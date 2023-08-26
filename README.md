@@ -1,4 +1,4 @@
 # Demo
-My first repository .
+My first git repository .
 <br>
 Author- zakir uddin
